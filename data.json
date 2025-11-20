@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Avatar",
+    "distributor": "20th Century Fox",
+    "year": 2025,
+    "amount": "$2000",
+    "img": {
+      "src": "abc.jpg",
+      "alt": "Avatar"
+    }
+  },
+  {
+    "title": "Inception",
+    "distributor": "Warner Bros",
+    "year": 2020,
+    "amount": "$1800",
+    "img": {
+      "src": "abc.jpg",
+      "alt": "Inception"
+    }
+  },
+  {
+    "title": "Interstellar",
+    "distributor": "Paramount",
+    "year": 2014,
+    "amount": "$1500",
+    "img": {
+      "src": "abc.jpg",
+      "alt": "Interstellar"
+    }
+  }
+]
